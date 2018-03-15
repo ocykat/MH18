@@ -1,0 +1,14 @@
+# virtualenv
+/bin
+/include
+/lib
+/pip-selfcheck.json
+
+# make
+Makefile
+
+# pycache
+__pycache__
+
+# scratch file
+scratch.py
