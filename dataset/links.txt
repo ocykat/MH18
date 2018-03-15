@@ -1,0 +1,4 @@
+* article-01.txt: http://www.bbc.com/news/business-43285885
+* computer.txt: wikipedia
+* mother.txt: wikipedia
+* dna-sequencing.txt: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4727787
